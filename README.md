@@ -22,6 +22,12 @@ __Design__
 
 ![](https://github.com/farissikira/calculator/blob/9d5170c073b12610c9bcc02435d2d995a47b3121/calcpic1.JPG)
 
-Operations
+__Operations__
 
 ![](https://github.com/farissikira/calculator/blob/83f65f5b53e56b01647d2dc298077135fe525923/calcpic2.JPG)
+
+__Result__
+
+![](https://github.com/farissikira/calculator/blob/d37db4e81c1222103e45896bc5cf3d2423c96968/pic3calc.JPG)
+
+
