@@ -24,4 +24,4 @@ __Design__
 
 Operations
 
-![]()
+![](https://github.com/farissikira/calculator/blob/83f65f5b53e56b01647d2dc298077135fe525923/calcpic2.JPG)
