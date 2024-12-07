@@ -19,4 +19,9 @@ IDE: Visual Studio Code
 ## __Example of Output__
 
 __Design__
+
+![](https://github.com/farissikira/calculator/blob/9d5170c073b12610c9bcc02435d2d995a47b3121/calcpic1.JPG)
+
+Operations
+
 ![]()
