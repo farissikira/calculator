@@ -13,7 +13,7 @@ Clear Mode (C)
 User-Friendly interface
 
 ## __Technologies Used__
-HTML, css and JavaScript
+HTML, CSS and JavaScript
 IDE: Visual Studio Code
 
 ## __Example of Output__
