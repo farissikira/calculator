@@ -9,8 +9,8 @@ Basic operations:
 - Subtraction (-)
 - Multiplication (×)
 - Division (÷)
-Clear Mode (C)
-User-Friendly interface
+- Clear Mode (C)
+- User-Friendly interface
 
 ## __Technologies Used__
 HTML, CSS and JavaScript
