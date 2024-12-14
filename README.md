@@ -14,6 +14,7 @@ Basic operations:
 
 ## __Technologies Used__
 HTML, CSS and JavaScript
+
 IDE: Visual Studio Code
 
 ## __Example of Output__
